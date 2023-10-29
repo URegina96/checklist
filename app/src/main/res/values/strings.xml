@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">checklist</string>
+    <string name="hi">Hi</string>
+    <string name="Save">Сохранить</string>
+    <string name="habit_name">Как называется желаемая новая привычка</string>
+    <string name="amount_of_days">Сколько дней зададим новой привычке?</string>
+    <string name="habit_s">%s</string>
+    <string name="habit_d">%d</string>
+</resources>
